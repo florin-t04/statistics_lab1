@@ -211,6 +211,10 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# Local repository guidance and macOS metadata
+AGENTS.md
+.DS_Store
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
